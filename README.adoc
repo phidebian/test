@@ -5,3 +5,7 @@ More text.
 line 2
 
 TIP: get a tip.
+
+trying to include another file
+
+include::readcont.adoc[]
