@@ -16,4 +16,5 @@ Add line with ssh authentication
 
 Add line 2.
 
-Mark my words, #automation is essential#.
+
+Mark my words, [.application]*automation is essential* I guess.
