@@ -15,3 +15,5 @@ Don't get it.
 Add line with ssh authentication
 
 Add line 2.
+
+Mark my words, #automation is essential#.
