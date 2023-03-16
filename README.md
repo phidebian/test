@@ -6,3 +6,4 @@ test 1
 
 
 this is a [![Coverage Status](yo.png)](yo) see how it render.
+a
