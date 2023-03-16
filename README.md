@@ -5,4 +5,4 @@ test 1
 
 
 
-[![Coverage Status](yo)](yo)
+[![Coverage Status](yo.svg)](yo)
