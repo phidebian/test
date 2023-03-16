@@ -1,6 +1,8 @@
 // test
 Experimenting github
 
+[![Coverage Status](https://coveralls.io/repos/github/satya164/pigment/badge.svg?branch=master)](https://coveralls.io/github/satya164/pigment?branch=master)
+
 More text.
 line 2
 
