@@ -5,4 +5,4 @@ test 1
 
 
 
-[![Coverage Status](yo.svg)](yo)
+this is a [![Coverage Status](yo.svg)](yo) see how it render.
