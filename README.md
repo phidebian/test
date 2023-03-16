@@ -5,5 +5,5 @@ test 1
 
 
 
-this is a [![Coverage Status2](yo2.png)](yo2) see how it render.
+this is a [![Coverage Status2](yo.png)](yo2) see how it render.
 a
