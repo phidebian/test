@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="yo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="4"
+     inkscape:cx="238.5"
+     inkscape:cy="301.875"
+     inkscape:window-width="1490"
+     inkscape:window-height="794"
+     inkscape:window-x="629"
+     inkscape:window-y="69"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Colorize"
+       id="filter7828"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feComposite
+         in2="SourceGraphic"
+         operator="arithmetic"
+         k1="0"
+         k2="1"
+         result="composite1"
+         id="feComposite7814" />
+      <feColorMatrix
+         in="composite1"
+         values="1"
+         type="saturate"
+         result="colormatrix1"
+         id="feColorMatrix7816" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(158,85,0)"
+         result="flood1"
+         id="feFlood7818" />
+      <feBlend
+         in="flood1"
+         in2="colormatrix1"
+         mode="multiply"
+         result="blend1"
+         id="feBlend7820" />
+      <feBlend
+         in2="blend1"
+         mode="screen"
+         result="blend2"
+         id="feBlend7822" />
+      <feColorMatrix
+         in="blend2"
+         values="1"
+         type="saturate"
+         result="colormatrix2"
+         id="feColorMatrix7824" />
+      <feComposite
+         in="colormatrix2"
+         in2="SourceGraphic"
+         operator="in"
+         k2="1"
+         result="fbSourceGraphic"
+         id="feComposite7826" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix7848" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite7850"
+         operator="arithmetic"
+         k1="0"
+         k2="1"
+         result="composite1"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix7852"
+         in="composite1"
+         values="1"
+         type="saturate"
+         result="colormatrix1" />
+      <feFlood
+         id="feFlood7854"
+         flood-opacity="1"
+         flood-color="rgb(255,128,128)"
+         result="flood1" />
+      <feBlend
+         in2="colormatrix1"
+         id="feBlend7856"
+         in="flood1"
+         mode="multiply"
+         result="blend1" />
+      <feBlend
+         in2="blend1"
+         id="feBlend7858"
+         mode="screen"
+         result="blend2" />
+      <feColorMatrix
+         id="feColorMatrix7860"
+         in="blend2"
+         values="1"
+         type="saturate"
+         result="colormatrix2" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite7862"
+         in="colormatrix2"
+         operator="in"
+         k2="1"
+         result="composite2" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       width="33.072918"
+       height="7.6729169"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality;filter:url(#filter7828)"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAH0AAAAdCAIAAAAIFvQoAAAAA3NCSVQICAjb4U/gAAAAGHRFWHRT
+b2Z0d2FyZQBtYXRlLXNjcmVlbnNob3TIlvBKAAAIMklEQVRoge2ZaVSU1xnHnzvvLMyCSMgg2wz7
+HrVaBQUjUAQ3RqMS19QlSqqJaXJSPW09aZtjbZM0OTmmMUaNOTWJHEmEEEUgEFwRXHADWWZg9nEY
+thlg9vW9/QCDCEi0H5wPnf+nudz7Ps///u5znvsOg6LiZ4BXz1wUTxv4P5WXu2fk5e4Zebl7Rl7u
+npGXu2fk5e4ZPcqdiBa89/mePP6zOA1KxOI/ffz7xTwPnzyRsPrA528vDn7GNjy4a5uhr1dnsA0N
+0HPZO/etCSc8Z+fZiuqxzKSm/viH9cMDit8LM3lUhcfMPHNNwN0F/smCvJx5CVwWadS03ThbdF44
+iIfmkG9kxqrFL87g+TOchk5xQ3VV9e0eB/vXBe/nM0o+OHR5EAMAPWHjP15Ntdd++tcyqQsAKKGC
+t/cuVB7dV9zmeJiGiBb85Z34Wx9+Ut4X+9I7GzPD6JT43QdzARwtX+85ccv6yMp3d3NK373IXLVm
++dwwH1Hx/i9uGzFt2pycFUtmxwYxXf2qpvMVZy4rzRgAsee/uW+h9Pj3htmC7BkRATSbTnmv8kxp
+vcY+tAVmWFq+YNEsvj/d2tN6rawBux4B4p+Uu2zpgrgQX2R80FZ7pvyCUE8CADV580cC4+FDd3gr
+1i5JCkKNX/35dItzHDxa4Kxl2enT+SHcqT6k4UHTldLv6mRm/ATckX/aumzhpZpvqvTATV7ycs62
+Ddq/H71rxACMiLy3CjKJ5oqirxV6InB6xvLtO0MYn315TSpSwvK4cPrlJhsANTIxnmqxMuMSQyhS
+FQnINyqG6xCflzvG5QIAAGyV1xz9nvbWb5OFJw9Vql1gN9rGmaIFpW/f8rzr/s+FV406hQmjqSnr
+39wa0VV17svCfkb0gtX527eR/z58RYsBACjTMl95RXPvQsm3FTZm+MJleZs2mdSfnFOQgPznbS9Y
+G9l9ufjEvW7sHzdvxboYDujcaZiJa18rmGuuKy78QYNC0paten0b8dGhKpVruOiWbJox1XCjrKRG
+36t0jTUJAIB9AkOpqquVNcp+V9Dc1esFW62aA6ck47Y+AXeG4frpwmq1CwAkSuPzcXuzYnnE3TYn
+mjInOyO4q+pA0XkNCQDiDrme84cdeQujb5aJRb309CgetUnsJHjT49iym/W+6YlJAZWqXpIRHhMO
+ih9k1nGphkXaDFq9lcQui0Gn7Z9wO0AE8+zf/evo7YGh0iF4GXnJxL1TJ842GjGATAOhf9yxKJV/
+tUKBAQCohKLy2LlbBgwAYgUlPGlDbKw/UmhRWEpmEiE8VVhaP4gBQCLT++3dvXA4CYWbsjR9iqz4
+WEldPwaQKa3cuF0ZWbEXvxHaAQDR+EHao/8saTWNr1+3nMqqw98Of5b2/JT4q22REQEUSRc5Zt34
+exUbJKIu9+bxgE6PGT5MBAAEL4ZP7RG1drtjYEt7o9TuFxnNhS6RVO8bERNIAUpQcrKfRnirqV0f
+/EKcHwKCHx1J62pvNz7e7BMIG+/XNg64Q6CAqOgAUt7U7iZgl4s7cUBoGAcNjUmlWDyS0D7Qb8Q+
+TAYCxOKHBWJ1a6vePeeQi+R2d1SfqOgw6GxududxqqVyB4sXGjBMCfc0XBdOAn2snIMDJkyn0SaY
+Gl/v2Gq2PAzt7usAQGWy6WAyjW5WLpPJCgwmE7kUYoktJTqGQ+D4JG5PY3Ovwl9sfTEhnnNdERvB
+0bW394498acTNhsMDyMgFptFoUZsee/glod/Q6SCwQAwAACQFsuoTQDGgBAAAIPJQNhkGsWONFms
+7hGLw6QQ4Sv3f7ByVFToYdDda436X6COWKFzFi2YkxgWOJVJp1IIBpuim3DhU7zPOC0mOwRy2Ah0
+7uQEh+0DFpMZg10uksFL0XwuNX5an7C1i3TohO3OtYnxAdRYrrW9Qj1x+/hfZTFbSXtL8RdnRaPj
+2vUjzgBPCMhmsWHEZDERuGEjOn2kHi1mK+mSVx8sbRyN12nqI0caw6TYKYFZr+/K8xOVFxeXqgfM
+duAL3tgRO+HSp+DuUopkjpT4pKBqVScJAICYcTOj6QON0j4SsFki6qSnx85nBg82V3SSADZpSwda
+NT0N8V2SOuVj7tQRkaQLUWlP+vpOauWSfurMYJbuYsfYOxhN8hw2q9R9KC0+jl17Y6gNEaExPCYa
+ei/BFqm0EzJCphqqOibvihQWN9DH2K2zPLIKcaISIwlJ0Y8XGg0YAMCHzmY+JsJTcMeG2z/XZO7K
+fW294+wN2SA1cGbGihRK28laqRMASG27VLcyNcXXeqdG7QIAbGlvVvqsmZ1AVZV1PPZOdcfu13TZ
+/WZlZLWQYpvLIFNpJz8op+LS2ZbZWza+gS5daeo0OKlsblgUW1X5k9A06XOkquGyKO3l/E0CdOF+
+D/aLmZubyrHjgeHZ7hvldXMLNhVs5tbekQ3YCdZzYeEBfVfLb/WPBowC5u/420q+6PT+Qw360d3M
+otMZUWJCQtCduz3klMjUJTkJFNBPaOSpvjc51NWfHTOuyM3YsE3AwkaNpOE/Ryoahj2RD8RiU2Ya
+ut8sGy4fQ2uban1shFrcof+luwib75YUR23Ny935u8WDTafeL9I6Jn8E99889akta3nOvNWp/mzC
+oe9Wtl5qc+DJ6x0Aa+uOf0Xk52WtezWbZu1qrf/xsPw3e1NHbLQVHTnSk5ubvnTzcg7NaepTdlwr
+s48NYh3U6a1+fXr7GI+OjvIT5zn5S/d8nI8sWun16sKTzl2CCX0g7++rHpH3/5GekZe7Z+Tl7hl5
+uXtGXu6ekZe7Z+Tl7hl5uXtG/wX1VrFrxBxOegAAAABJRU5ErkJggg==
+"
+       id="image77"
+       x="32.413681"
+       y="76.213936" />
+  </g>
+</svg>
