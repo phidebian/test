@@ -6,7 +6,7 @@
    height="5.2239356mm"
    viewBox="0 0 65.608154 5.2239356"
    version="1.1"
-   id="svg5"
+   id="svg12672"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="yo.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -14,7 +14,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview7"
+     id="namedview12674"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
@@ -23,237 +23,37 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:snap-grids="true"
+     inkscape:snap-text-baseline="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="0.53362093"
-     inkscape:cx="158.35211"
-     inkscape:cy="388.85281"
+     inkscape:zoom="2.1344837"
+     inkscape:cx="121.10657"
+     inkscape:cy="9.1356986"
      inkscape:window-width="1490"
      inkscape:window-height="860"
-     inkscape:window-x="373"
-     inkscape:window-y="110"
+     inkscape:window-x="172"
+     inkscape:window-y="20"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
-     id="defs2">
-    <filter
-       style="color-interpolation-filters:sRGB"
-       inkscape:label="Colorize"
-       id="filter12119"
-       x="0"
-       y="0"
-       width="1"
-       height="1">
-      <feComposite
-         in2="SourceGraphic"
-         operator="arithmetic"
-         k1="0"
-         k2="1"
-         result="composite1"
-         id="feComposite12105"
-         k3="0"
-         k4="0" />
-      <feColorMatrix
-         in="composite1"
-         values="1"
-         type="saturate"
-         result="colormatrix1"
-         id="feColorMatrix12107" />
-      <feFlood
-         flood-opacity="1"
-         flood-color="rgb(255,128,128)"
-         result="flood1"
-         id="feFlood12109" />
-      <feBlend
-         in="flood1"
-         in2="colormatrix1"
-         mode="multiply"
-         result="blend1"
-         id="feBlend12111" />
-      <feBlend
-         in2="blend1"
-         mode="screen"
-         result="blend2"
-         id="feBlend12113" />
-      <feColorMatrix
-         in="blend2"
-         values="1"
-         type="saturate"
-         result="colormatrix2"
-         id="feColorMatrix12115" />
-      <feComposite
-         in="colormatrix2"
-         in2="SourceGraphic"
-         operator="in"
-         result="fbSourceGraphic"
-         id="feComposite12117" />
-      <feColorMatrix
-         result="fbSourceGraphicAlpha"
-         in="fbSourceGraphic"
-         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
-         id="feColorMatrix12139" />
-      <feComposite
-         in2="fbSourceGraphic"
-         id="feComposite12141"
-         operator="arithmetic"
-         k1="0"
-         k2="1"
-         result="composite1"
-         in="fbSourceGraphic"
-         k3="0"
-         k4="0" />
-      <feColorMatrix
-         id="feColorMatrix12143"
-         in="composite1"
-         values="1"
-         type="saturate"
-         result="colormatrix1" />
-      <feFlood
-         id="feFlood12145"
-         flood-opacity="1"
-         flood-color="rgb(255,53,61)"
-         result="flood1" />
-      <feBlend
-         in2="colormatrix1"
-         id="feBlend12147"
-         in="flood1"
-         mode="multiply"
-         result="blend1" />
-      <feBlend
-         in2="blend1"
-         id="feBlend12149"
-         mode="screen"
-         result="blend2" />
-      <feColorMatrix
-         id="feColorMatrix12151"
-         in="blend2"
-         values="1"
-         type="saturate"
-         result="colormatrix2" />
-      <feComposite
-         in2="fbSourceGraphic"
-         id="feComposite12153"
-         in="colormatrix2"
-         operator="in"
-         result="fbSourceGraphic" />
-      <feColorMatrix
-         result="fbSourceGraphicAlpha"
-         in="fbSourceGraphic"
-         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
-         id="feColorMatrix12173" />
-      <feComposite
-         in2="fbSourceGraphic"
-         id="feComposite12175"
-         operator="arithmetic"
-         k1="0"
-         k2="1"
-         result="composite1"
-         in="fbSourceGraphic"
-         k3="0"
-         k4="0" />
-      <feColorMatrix
-         id="feColorMatrix12177"
-         in="composite1"
-         values="1"
-         type="saturate"
-         result="colormatrix1" />
-      <feFlood
-         id="feFlood12179"
-         flood-opacity="1"
-         flood-color="rgb(255,20,23)"
-         result="flood1" />
-      <feBlend
-         in2="colormatrix1"
-         id="feBlend12181"
-         in="flood1"
-         mode="multiply"
-         result="blend1" />
-      <feBlend
-         in2="blend1"
-         id="feBlend12183"
-         mode="screen"
-         result="blend2" />
-      <feColorMatrix
-         id="feColorMatrix12185"
-         in="blend2"
-         values="1"
-         type="saturate"
-         result="colormatrix2" />
-      <feComposite
-         in2="fbSourceGraphic"
-         id="feComposite12187"
-         in="colormatrix2"
-         operator="in"
-         result="fbSourceGraphic" />
-      <feColorMatrix
-         result="fbSourceGraphicAlpha"
-         in="fbSourceGraphic"
-         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
-         id="feColorMatrix12207" />
-      <feComposite
-         in2="fbSourceGraphic"
-         id="feComposite12209"
-         operator="arithmetic"
-         k1="0"
-         k2="1"
-         result="composite1"
-         in="fbSourceGraphic"
-         k3="0"
-         k4="0" />
-      <feColorMatrix
-         id="feColorMatrix12211"
-         in="composite1"
-         values="1"
-         type="saturate"
-         result="colormatrix1" />
-      <feFlood
-         id="feFlood12213"
-         flood-opacity="1"
-         flood-color="rgb(255,20,23)"
-         result="flood1" />
-      <feBlend
-         in2="colormatrix1"
-         id="feBlend12215"
-         in="flood1"
-         mode="multiply"
-         result="blend1" />
-      <feBlend
-         in2="blend1"
-         id="feBlend12217"
-         mode="screen"
-         result="blend2" />
-      <feColorMatrix
-         id="feColorMatrix12219"
-         in="blend2"
-         values="1"
-         type="saturate"
-         result="colormatrix2" />
-      <feComposite
-         in2="fbSourceGraphic"
-         id="feComposite12221"
-         in="colormatrix2"
-         operator="in"
-         result="composite2" />
-    </filter>
-  </defs>
+     id="defs12669" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-58.942195,-45.422655)">
+     transform="translate(-49.763549,-57.535887)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:132%;font-family:MathJax_Typewriter;-inkscape-font-specification:'MathJax_Typewriter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter12119)"
-       x="58.738995"
-       y="50.595791"
-       id="text2541"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:132%;font-family:MathJax_Typewriter;-inkscape-font-specification:'MathJax_Typewriter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="49.560349"
+       y="62.709023"
+       id="text14108"><tspan
          sodipodi:role="line"
-         style="stroke-width:0.264583px"
-         x="58.738995"
-         y="50.595791"
-         id="tspan6759">red colored text</tspan></text>
+         id="tspan14106"
+         style="fill:#ff0000;stroke-width:0.264583px"
+         x="49.560349"
+         y="62.709023">red colored text</tspan></text>
   </g>
 </svg>
