@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="33.072918mm"
+   height="7.6729169mm"
+   viewBox="0 0 33.072918 7.6729169"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
@@ -25,18 +25,22 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="4"
-     inkscape:cx="238.5"
-     inkscape:cy="301.875"
+     inkscape:cx="33.125"
+     inkscape:cy="13.875"
      inkscape:window-width="1490"
      inkscape:window-height="794"
-     inkscape:window-x="629"
-     inkscape:window-y="69"
+     inkscape:window-x="316"
+     inkscape:window-y="288"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <defs
      id="defs2">
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Colorize"
        id="filter7828"
        x="0"
@@ -49,7 +53,9 @@
          k1="0"
          k2="1"
          result="composite1"
-         id="feComposite7814" />
+         id="feComposite7814"
+         k3="0"
+         k4="0" />
       <feColorMatrix
          in="composite1"
          values="1"
@@ -82,7 +88,6 @@
          in="colormatrix2"
          in2="SourceGraphic"
          operator="in"
-         k2="1"
          result="fbSourceGraphic"
          id="feComposite7826" />
       <feColorMatrix
@@ -97,7 +102,9 @@
          k1="0"
          k2="1"
          result="composite1"
-         in="fbSourceGraphic" />
+         in="fbSourceGraphic"
+         k3="0"
+         k4="0" />
       <feColorMatrix
          id="feColorMatrix7852"
          in="composite1"
@@ -131,19 +138,19 @@
          id="feComposite7862"
          in="colormatrix2"
          operator="in"
-         k2="1"
          result="composite2" />
     </filter>
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-32.413681,-76.213936)">
     <image
        width="33.072918"
        height="7.6729169"
        preserveAspectRatio="none"
-       style="image-rendering:optimizeQuality;filter:url(#filter7828)"
+       style="filter:url(#filter7828);image-rendering:optimizeQuality"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAH0AAAAdCAIAAAAIFvQoAAAAA3NCSVQICAjb4U/gAAAAGHRFWHRT
 b2Z0d2FyZQBtYXRlLXNjcmVlbnNob3TIlvBKAAAIMklEQVRoge2ZaVSU1xnHnzvvLMyCSMgg2wz7
 HrVaBQUjUAQ3RqMS19QlSqqJaXJSPW09aZtjbZM0OTmmMUaNOTWJHEmEEEUgEFwRXHADWWZg9nEY
