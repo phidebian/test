@@ -6,7 +6,7 @@
    height="5.2239356mm"
    viewBox="0 0 65.608154 5.2239356"
    version="1.1"
-   id="svg12672"
+   id="svg26544"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="yo.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -15,7 +15,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview12674"
+     id="namedview26546"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
@@ -24,28 +24,33 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:snap-text-baseline="false"
+     inkscape:zoom="0.53362093"
+     inkscape:cx="156.47812"
+     inkscape:cy="260.48453"
+     inkscape:window-width="1490"
+     inkscape:window-height="860"
+     inkscape:window-x="256"
+     inkscape:window-y="2"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:zoom="2.1344837"
-     inkscape:cx="121.10657"
-     inkscape:cy="9.1356986"
-     inkscape:window-width="1490"
-     inkscape:window-height="860"
-     inkscape:window-x="284"
-     inkscape:window-y="127"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" />
+     fit-margin-bottom="0" />
   <defs
-     id="defs12669">
+     id="defs26541">
+    <rect
+       x="194.08533"
+       y="288.62537"
+       width="310.60095"
+       height="86.077866"
+       id="rect38916" />
     <filter
        inkscape:label="Fill Background"
        inkscape:menu="Fill and Transparency"
        inkscape:menu-tooltip="Adds a colorizable opaque background"
        style="color-interpolation-filters:sRGB"
-       id="filter22773"
+       id="filter55500"
        x="0"
        y="0"
        width="1"
@@ -54,25 +59,25 @@
          result="result1"
          flood-color="rgb(200,55,55)"
          flood-opacity="1"
-         id="feFlood22761" />
+         id="feFlood55488" />
       <feImage
          xlink:href=""
          result="result2"
-         id="feImage22763" />
+         id="feImage55490" />
       <feBlend
          result="result4"
          in2="result1"
          mode="multiply"
-         id="feBlend22765" />
+         id="feBlend55492" />
       <feMerge
          result="result3"
-         id="feMerge22771">
+         id="feMerge55498">
         <feMergeNode
            in="result1"
-           id="feMergeNode22767" />
+           id="feMergeNode55494" />
         <feMergeNode
            in="SourceGraphic"
-           id="feMergeNode22769" />
+           id="feMergeNode55496" />
       </feMerge>
     </filter>
   </defs>
@@ -80,17 +85,22 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-49.763549,-57.535887)">
+     transform="translate(-59.721339,-78.851897)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:132%;font-family:MathJax_Typewriter;-inkscape-font-specification:'MathJax_Typewriter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter22773)"
-       x="49.560349"
-       y="62.709023"
-       id="text14108"><tspan
+       transform="scale(0.26458333)"
+       id="text38914"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:132%;font-family:MathJax_Typewriter;-inkscape-font-specification:'MathJax_Typewriter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect38916);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:132%;font-family:MathJax_Typewriter;-inkscape-font-specification:'MathJax_Typewriter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter55500)"
+       x="59.518139"
+       y="84.025032"
+       id="text50024"><tspan
          sodipodi:role="line"
-         id="tspan14106"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-opacity:1"
-         x="49.560349"
-         y="62.709023">red colored text</tspan></text>
+         id="tspan50022"
+         style="fill:#ffffff;stroke-width:0.264583px"
+         x="59.518139"
+         y="84.025032">red colored text</tspan></text>
   </g>
 </svg>
